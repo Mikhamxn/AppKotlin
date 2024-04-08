@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86757810784",
+    "project_id": "crud-carrera",
+    "storage_bucket": "crud-carrera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86757810784:android:8301547ed7711e121c9905",
+        "android_client_info": {
+          "package_name": "com.example.crud_carrera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgYyvqiZs3swTaTAlK6Z3-B2hC_AGWh9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
